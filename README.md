@@ -34,18 +34,23 @@ Note: The code has been verified to be working on ROS Kinetic, compatibility wit
 
 ### Running the code
 1. Launch roscore in **remote PC**
+
    ```roscore```
 
 2. Bringup the robot in **ssh**
+
    ```roslaunch turtlebot3_bringup turtlebot3_robot.launch```
    
 3. Start the camera in **ssh**
+
    ```roslaunch turtlebot3_autorace_traffic_light_camera turtlebot3_autorace_camera_pi.launch```
    
 If you just want to do lane following goto step 4, otherwise if you want to perform the traffic light mission as well as lane following skip to step 5.
 
 4. launch the lane follower launcher script in **remote PC**
+
    ```./<directory>/lane_follower_launcher.sh```
 
 5. launch the traffic light launcher script in **remote PC**
+
    ```./<directory>/traffic_light_launcher.sh```
