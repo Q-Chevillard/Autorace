@@ -32,7 +32,7 @@ Note: The code has been verified to be working on ROS Kinetic, compatibility wit
 
    ```sudo apt-get install ros-kinetic-image-transport ros-kinetic-cv-bridge ros-kinetic-vision-opencv python-opencv libopencv-dev ros-kinetic-image-proc```
 
-### Launch autorace
+### Running the code
 1. Launch roscore in **remote PC**
    ```roscore```
 
