@@ -4,7 +4,7 @@ This is the repository for the final project of the robotics course in MSCV Vibo
 It contains the complete code, project report, presentation along with the instructions on how to get everything to run
 
 <p float="left">
-  <img src="https://condorcet.u-bourgogne.fr/wp-content/uploads/2014/06/logo_Vibot.png" width="500" />
+  <img src="https://www.vibot.org/uploads/2/3/5/8/2358523/696297.png" width="500" />
   <img src="https://user-images.githubusercontent.com/62595618/145738760-61a1fe0c-c297-4c03-8b36-6aabd3469caa.png" width="500" /> 
 </p>
 
