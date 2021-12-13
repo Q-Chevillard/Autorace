@@ -3,7 +3,8 @@
 
 ## Technical documentation
 
-## Related Videos
+## Related medias
+https://drive.google.com/drive/folders/1oEMVAOJoUQk3slDalRYiPA_bhgDXfmDj?usp=sharing
 
 ## User manual
 ### Installation
