@@ -33,8 +33,8 @@ The following instructions describes how to install packages and to calibrate ca
    
 if you want just launch the lane following do the 4.1 step, else if you want to launch the traffic light mission and the following lane do the step 4.2.
 
-4.1 launch the lane follower launcher script
+4.1 launch the lane follower launcher script in **remote PC**
    ```./<directory>/lane_follower_launcher.sh```
 
-4.2 launch the traffic light launcher script
+4.2 launch the traffic light launcher script in **remote PC**
    ```./<directory>/traffic_light_launcher.sh```
