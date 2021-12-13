@@ -4,8 +4,8 @@ This is the repository for the final project of the robotics course in MSCV Vibo
 It contains the complete code, project report, presentation along with the instructions on how to get everything to run
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/62595618/145738760-61a1fe0c-c297-4c03-8b36-6aabd3469caa.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/62595618/145738760-61a1fe0c-c297-4c03-8b36-6aabd3469caa.png" width="100" /> 
+  <img src="https://user-images.githubusercontent.com/62595618/145738760-61a1fe0c-c297-4c03-8b36-6aabd3469caa.png" width="500" />
+  <img src="https://user-images.githubusercontent.com/62595618/145738760-61a1fe0c-c297-4c03-8b36-6aabd3469caa.png" width="500" /> 
 </p>
 
 ![image](https://user-images.githubusercontent.com/62595618/145738760-61a1fe0c-c297-4c03-8b36-6aabd3469caa.png)
