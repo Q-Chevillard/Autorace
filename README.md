@@ -1,5 +1,6 @@
 # Autorace
 This is the repository for the final project of the robotics course in MSCV Vibot
+
 ![image](https://user-images.githubusercontent.com/62595618/145738760-61a1fe0c-c297-4c03-8b36-6aabd3469caa.png)
 
 ## Technical documentation
