@@ -12,9 +12,12 @@
 The following instructions describes how to install packages and to calibrate camera.
 
 1. Install Autorace package on both Remote PC and SBC.
-   ```cd ~/catkin_ws/src/
-   git clone -b kinetic-devel https://github.com/Q-Chevillard/Autorace.git
-   cd ~/catkin_ws && catkin_make```
+   
+   ```cd ~/catkin_ws/src/```
+   
+   ```git clone -b kinetic-devel https://github.com/Q-Chevillard/Autorace.git```
+   
+   ```cd ~/catkin_ws && catkin_make```
 
 
 2. Install additional dependent packages on Remote PC.
@@ -31,10 +34,10 @@ The following instructions describes how to install packages and to calibrate ca
 3. Start the camera in **ssh**
    ```roslaunch turtlebot3_autorace_traffic_light_camera turtlebot3_autorace_camera_pi.launch```
    
-if you want just launch the lane following do the 4.1 step, else if you want to launch the traffic light mission and the following lane do the step 4.2.
+if you want just launch the lane following do the 4 step, else if you want to launch the traffic light mission and the following lane do directly the step 5.
 
-4.1 launch the lane follower launcher script in **remote PC**
+4. launch the lane follower launcher script in **remote PC**
    ```./<directory>/lane_follower_launcher.sh```
 
-4.2 launch the traffic light launcher script in **remote PC**
+5. launch the traffic light launcher script in **remote PC**
    ```./<directory>/traffic_light_launcher.sh```
