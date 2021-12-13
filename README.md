@@ -5,7 +5,9 @@
 [Technical documentation](https://github.com/Q-Chevillard/Autorace/blob/511b83aabb3bfb0c0444316ae1cb6c88e4e65f3f/Technical%20Documentation.pdf)
 
 ## Related medias
-[google drive](https://drive.google.com/drive/folders/1oEMVAOJoUQk3slDalRYiPA_bhgDXfmDj?usp=sharing)
+[Presentation video](https://drive.google.com/file/d/1Lg9F2EBYEHoE_4bwjkpWVkNRPsdrSqEJ/view?usp=sharing)
+
+[Other stuff](https://drive.google.com/drive/folders/1oEMVAOJoUQk3slDalRYiPA_bhgDXfmDj?usp=sharing)
 
 ## User manual
 ### Installation
