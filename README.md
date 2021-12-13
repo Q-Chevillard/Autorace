@@ -1,5 +1,6 @@
 # Autorace
 This is the repository for the final project of the robotics course in MSCV Vibot
+It contains the complete code, project report, presentation along with the instructions on how to get everything to run
 
 ![image](https://user-images.githubusercontent.com/62595618/145738760-61a1fe0c-c297-4c03-8b36-6aabd3469caa.png)
 
@@ -14,6 +15,8 @@ This is the repository for the final project of the robotics course in MSCV Vibo
 ## User manual
 ### Installation
 The following instructions describes how to install packages and to calibrate camera.
+
+Note: The code has been verified to be working on ROS Kinetic, compatibility with other ros distributions is not guaranteed.
 
 1. Install Autorace package on both Remote PC and SBC.
    
