@@ -16,6 +16,8 @@ It contains the complete code, project report, presentation along with the instr
 ## Related medias
 [Presentation video](https://drive.google.com/file/d/1mtCk5bxuI0p6N6HrjZ6uclQ2sKCshmr7/view?usp=sharing)
 
+[Slides presentation](https://docs.google.com/presentation/d/11ms6gqSAXOzC3bQPsOumJ9zOv5E-BEF2/edit?usp=sharing&ouid=111443997314803573241&rtpof=true&sd=true)
+
 [Other stuff](https://drive.google.com/drive/folders/1_yZ78yg9CAFjahyFoOScyZC6Cuo5MB2w?usp=sharing)
 
 ## User manual
